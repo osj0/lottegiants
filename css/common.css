@@ -1,0 +1,5 @@
+.wrap{width: 100%;}
+.inner{max-width: 1300px; margin: 0 auto;}
+
+.f-bx{display: flex; justify-content: space-between;}
+.elp {white-space: nowrap;overflow: hidden;text-overflow: ellipsis;}
